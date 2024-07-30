@@ -1,0 +1,6 @@
+[core]
+	editor = code --wait
+[gpg]
+	format = ssh
+[commit]
+	gpgSign = true
